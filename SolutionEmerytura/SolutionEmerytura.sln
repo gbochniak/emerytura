@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppEmerytura", "ConsoleAppEmerytura\ConsoleAppEmerytura.csproj", "{77041FBC-4AE7-42D4-8D80-7DDD8466C4EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleBatchEmerytura", "ConsoleBatchEmerytura\ConsoleBatchEmerytura.csproj", "{F7C2B488-8E56-4603-8DB1-AD4E119D66CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppOkienka", "ConsoleAppOkienka\ConsoleAppOkienka.csproj", "{9A208F13-3460-4A52-A50A-4416A81112EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppEmerytura", "WindowsFormsAppEmerytura\WindowsFormsAppEmerytura.csproj", "{BAC32F62-1577-47F0-AF83-1DADA0321822}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{77041FBC-4AE7-42D4-8D80-7DDD8466C4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77041FBC-4AE7-42D4-8D80-7DDD8466C4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77041FBC-4AE7-42D4-8D80-7DDD8466C4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7C2B488-8E56-4603-8DB1-AD4E119D66CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C2B488-8E56-4603-8DB1-AD4E119D66CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C2B488-8E56-4603-8DB1-AD4E119D66CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C2B488-8E56-4603-8DB1-AD4E119D66CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A208F13-3460-4A52-A50A-4416A81112EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A208F13-3460-4A52-A50A-4416A81112EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A208F13-3460-4A52-A50A-4416A81112EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A208F13-3460-4A52-A50A-4416A81112EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAC32F62-1577-47F0-AF83-1DADA0321822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC32F62-1577-47F0-AF83-1DADA0321822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC32F62-1577-47F0-AF83-1DADA0321822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC32F62-1577-47F0-AF83-1DADA0321822}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
